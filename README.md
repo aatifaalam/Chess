@@ -1,2 +1,2 @@
 # Chess
-Chess game.
+Chess game. #Chessforever
